@@ -1,5 +1,4 @@
-# D-90 Challenge (기억보다는 기록을!)
-
+![header](<https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=D-90%20Challenge%20(기억보다는%20기록을!)&fontSize=50>)
 : 매일 단 10분이라도 공부한 것들에 대해 기록하기
 <br>
 <br>
