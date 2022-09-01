@@ -1,12 +1,27 @@
 # D-90 Challenge (기억보다는 기록을!)
 
-매일 단 10분이라도 공부한 것들에 대해 기록하기
+: 매일 단 10분이라도 공부한 것들에 대해 기록하기
+<br>
+<br>
 
-✏️ Studying
-<img src="https://img.shields.io/badge/HTM5-#E34F26?style=flat-square&logo=HTML5&logoColor=#E34F26"/>
-<img src="https://img.shields.io/badge/CSS3-#1572B6?style=flat-square&logo=CSS3&logoColor=#1572B6"/>
-<img src="https://img.shields.io/badge/JavaScript-#F7DF1E?style=flat-square&logo=JavaScript&logoColor=#F7DF1E"/>
+## ✏️ Studying
 
-⚒️ Tools
-<img src="https://img.shields.io/badge/VisualStudioCode-#007ACC?style=flat-square&logo=VisualStudioCode&logoColor=#007ACC"/>
-<img src="https://img.shields.io/badge/Github-#181717?style=flat-square&logo=Github&logoColor=#181717"/>
+---
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=black">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=black">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">
+<br>
+: JS까지 공부하고 Node.js, React, Vue 등 어떤 기술을 습득할지 고민해보고 이후 공부 진행하기!
+<br>
+<br>
+
+## ⚒️ Tools
+
+---
+
+<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=black">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=black">
+<br>
+<br>
+## 🌿 blog
