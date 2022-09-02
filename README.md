@@ -26,4 +26,6 @@
 ## ☁️ What i studied today
 
 - 09.01 : GitHub Repositorie 만들기 <br>
-- 09.02 : 인터넷과 웹의 개요 / 웹 표준 기술 공부 / HTML 공부의 이유 / GitHub 사용법 학습 (https://hyeongjun030-fe-developer.tistory.com/category/%EA%B8%B0%EC%B4%88%20%EC%A7%80%EC%8B%9D) <br>
+- 09.02 : [인터넷과 웹의 개요 / 웹 표준 기술 공부 / HTML 공부의 이유 / GitHub 사용법 학습](https://hyeongjun030-fe-developer.tistory.com/category/%EA%B8%B0%EC%B4%88%20%EC%A7%80%EC%8B%9D)
+  <br>
+  <br>
