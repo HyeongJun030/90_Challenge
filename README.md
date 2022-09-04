@@ -26,6 +26,6 @@
 ## ☁️ What i studied today
 
 - 09.01 : GitHub Repositorie 만들기 <br>
-- 09.02 : [인터넷과 웹의 개요 / 웹 표준 기술 공부 / HTML 공부의 이유 / GitHub 사용법 학습](https://hyeongjun030-fe-developer.tistory.com/category/%EA%B8%B0%EC%B4%88%20%EC%A7%80%EC%8B%9D)<br>
+- 09.02 : [인터넷과 웹의 개요](https://hyeongjun030-fe-developer.tistory.com/6?category=1018163) / [웹 표준 기술](https://hyeongjun030-fe-developer.tistory.com/7?category=1018163) / [HTML 공부의 이유](https://hyeongjun030-fe-developer.tistory.com/8?category=1018163) / [GitHub 사용법 학습](https://hyeongjun030-fe-developer.tistory.com/47?category=1018163)<br>
 - 09.03 : [1.HTML의 기본](https://hyeongjun030-fe-developer.tistory.com/9?category=1018007) / [2.스타일시트](https://hyeongjun030-fe-developer.tistory.com/10?category=1018007) / [3.자바스크립트](https://hyeongjun030-fe-developer.tistory.com/11?category=1018007) / [4.글자태그](https://hyeongjun030-fe-developer.tistory.com/12?category=1018007) / [5.기본태그](https://hyeongjun030-fe-developer.tistory.com/13?category=1018007) <br>
 - 09.04 : [6. 목록 태그](https://hyeongjun030-fe-developer.tistory.com/14?category=1018007) / [7. 테이블 태그](https://hyeongjun030-fe-developer.tistory.com/15) / [8. 미디어 태그](https://hyeongjun030-fe-developer.tistory.com/16) <br>
