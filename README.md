@@ -1,5 +1,6 @@
 ![header](<https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=D-90%20Challenge%20(기억보다는%20기록을!)&fontSize=50>)
-: 매일 단 10분이라도 공부한 것들에 대해 기록하기
+: 정보처리기사 시험 보기 전까지 매일 단 10분이라도 공부한 것들에 대해 기록하기(~10.16) <br>
+: 시험 보고 난 이후에는 더욱 빡세게 공부하기(10.16~)
 <br>
 <br>
 
@@ -7,7 +8,7 @@
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=black"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=black"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">
 <br>
-: JS까지 공부하고 Node.js, React, Vue 등 어떤 기술을 습득할지 고민해보고 이후 공부 진행하기!
+: JS까지 공부하고 Node.js, React, Vue 등 어떤 기술을 학습할지 고민해보고 이후 공부 진행하기!
 <br>
 <br>
 
@@ -33,3 +34,4 @@
 - 09.06 : [12. 시맨틱 태그](https://hyeongjun030-fe-developer.tistory.com/20?category=1018007) / [13. 응용하기](https://hyeongjun030-fe-developer.tistory.com/21?category=1018007) / [14. 웹 문서 업로드하기](https://hyeongjun030-fe-developer.tistory.com/50?category=1018007)<br>
 - 09.07 : [1. 선택자](https://hyeongjun030-fe-developer.tistory.com/22?category=1018008) / [2. 기본 선택자](https://hyeongjun030-fe-developer.tistory.com/24?category=1018008) / [3. 속성 선택자](https://hyeongjun030-fe-developer.tistory.com/25?category=1018008) <br>
 - 09.08 : [4. 후손 선택자 / 자손 선택자](https://hyeongjun030-fe-developer.tistory.com/26) / [5. 반응 / 상태 / 구조 선택자](https://hyeongjun030-fe-developer.tistory.com/27) / [6. CSS 단위](https://hyeongjun030-fe-developer.tistory.com/28) <br>
+- 09.09 : []() / []() / []()
