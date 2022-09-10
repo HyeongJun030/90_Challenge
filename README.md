@@ -1,6 +1,7 @@
 ![header](<https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=D-90%20Challenge%20(기억보다는%20기록을!)&fontSize=50>)
 : 정보처리기사 시험 보기 전까지 매일 단 10분이라도 공부한 것들에 대해 기록하기(~10.16) <br>
-: 시험 보고 난 이후에는 더욱 빡세게 공부하기(10.16~)
+: 정보처리기사는 하루 3시간씩 무조건 공부하기 <br>
+: 정보처리기사 시험 보고 난 이후에는 더욱 빡세게 공부하기(10.16~)
 <br>
 <br>
 
@@ -34,4 +35,5 @@
 - 09.06 : [12. 시맨틱 태그](https://hyeongjun030-fe-developer.tistory.com/20?category=1018007) / [13. 응용하기](https://hyeongjun030-fe-developer.tistory.com/21?category=1018007) / [14. 웹 문서 업로드하기](https://hyeongjun030-fe-developer.tistory.com/50?category=1018007)<br>
 - 09.07 : [1. 선택자](https://hyeongjun030-fe-developer.tistory.com/22?category=1018008) / [2. 기본 선택자](https://hyeongjun030-fe-developer.tistory.com/24?category=1018008) / [3. 속성 선택자](https://hyeongjun030-fe-developer.tistory.com/25?category=1018008) <br>
 - 09.08 : [4. 후손 선택자 / 자손 선택자](https://hyeongjun030-fe-developer.tistory.com/26) / [5. 반응 / 상태 / 구조 선택자](https://hyeongjun030-fe-developer.tistory.com/27) / [6. CSS 단위](https://hyeongjun030-fe-developer.tistory.com/28) <br>
-- 09.09 : 추석
+- 09.09 : [7. 박스 속성](https://hyeongjun030-fe-developer.tistory.com/29) 추석이라 공부 못함 ㅠ\_ㅠ <br>
+- 09.10 : [추석이니까 가볍게 직업 탐색(1)](https://www.youtube.com/watch?v=1t9nKrsdkdw&ab_channel=%EC%A1%B0%EC%BD%94%EB%94%A9JoCoding) / [추석이니까 가볍게 직업 탐색(2)](https://www.youtube.com/watch?v=TTLHd3IyErM&ab_channel=%EB%93%9C%EB%A6%BC%EC%BD%94%EB%94%A9) / [추석이니까 가볍게 직업 탐색(3)](https://www.youtube.com/watch?v=yLw591Fn3JU&ab_channel=%EB%9D%BC%EB%A7%A4%EA%B0%9C%EB%B0%9C%EC%9E%90) / [추석이니까 가볍게 직업 탐색(4) - 니꼬쌤의 영상 흥미롭게 봤당](https://www.youtube.com/watch?v=UJTAGM6yo6g&ab_channel=%EB%85%B8%EB%A7%88%EB%93%9C%EC%BD%94%EB%8D%94NomadCoders) / [추석이니까 가볍게 직업 탐색(5)](https://www.youtube.com/watch?v=2to3IQFhZVo&ab_channel=eo) <br>
