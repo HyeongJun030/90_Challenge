@@ -1,8 +1,8 @@
 ![header](<https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=D-90%20Challenge%20(기억보다는%20기록을!)&fontSize=50>)
 <br>
-: 정보처리기사 시험 보기 전까지 매일 단 10분이라도 공부한 것들에 대해 기록하기(~10.16) <br>
+: 정보처리기사 시험 보기 전까지 매일 단 10분이라도 공부한 것들에 대해 기록하기(10.16까지) <br>
 : 정보처리기사는 하루 3시간씩 무조건 공부하기 <br>
-: 정보처리기사 시험 보고 난 이후에는 더욱 빡세게 공부하기(10.16~)
+: 정보처리기사 시험 보고 난 이후에는 더욱 빡세게 공부하기(10.16부터)
 <br>
 <br>
 
