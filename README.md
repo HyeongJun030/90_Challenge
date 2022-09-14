@@ -37,6 +37,8 @@
 - 09.07 : [1. 선택자](https://hyeongjun030-fe-developer.tistory.com/22?category=1018008) / [2. 기본 선택자](https://hyeongjun030-fe-developer.tistory.com/24?category=1018008) / [3. 속성 선택자](https://hyeongjun030-fe-developer.tistory.com/25?category=1018008) <br>
 - 09.08 : [4. 후손 선택자 / 자손 선택자](https://hyeongjun030-fe-developer.tistory.com/26) / [5. 반응 / 상태 / 구조 선택자](https://hyeongjun030-fe-developer.tistory.com/27) / [6. CSS 단위](https://hyeongjun030-fe-developer.tistory.com/28) <br>
 - 09.09 : [7. 박스 속성](https://hyeongjun030-fe-developer.tistory.com/29) 추석이라 공부 못함 ㅠ\_ㅠ <br>
-- 09.10 : [추석이니까 가볍게 직업 탐색(1)](https://www.youtube.com/watch?v=1t9nKrsdkdw&ab_channel=%EC%A1%B0%EC%BD%94%EB%94%A9JoCoding) / [추석이니까 가볍게 직업 탐색(2)](https://www.youtube.com/watch?v=TTLHd3IyErM&ab_channel=%EB%93%9C%EB%A6%BC%EC%BD%94%EB%94%A9) / [추석이니까 가볍게 직업 탐색(3)](https://www.youtube.com/watch?v=yLw591Fn3JU&ab_channel=%EB%9D%BC%EB%A7%A4%EA%B0%9C%EB%B0%9C%EC%9E%90) / [추석이니까 가볍게 직업 탐색(4) - 니꼬쌤의 영상 흥미롭게 봤당](https://www.youtube.com/watch?v=UJTAGM6yo6g&ab_channel=%EB%85%B8%EB%A7%88%EB%93%9C%EC%BD%94%EB%8D%94NomadCoders) / [추석이니까 가볍게 직업 탐색(5)](https://www.youtube.com/watch?v=2to3IQFhZVo&ab_channel=eo) <br>
-- 09.11 : [반응형 웹 디자인](https://hyeongjun030-fe-developer.tistory.com/54) <br>
-- 09.12 : [미디어 쿼리](https://hyeongjun030-fe-developer.tistory.com/55) / [코딩해주는 AI?!](https://www.youtube.com/watch?v=R-lIeSR8-hE&ab_channel=%EC%BD%94%EB%94%A9%EC%95%A0%ED%94%8C) <br>
+- 09.10 : [추석이니까 가볍게 직업 탐색(1)](https://www.youtube.com/watch?v=1t9nKrsdkdw&ab_channel=%EC%A1%B0%EC%BD%94%EB%94%A9JoCoding) / [(2)](https://www.youtube.com/watch?v=TTLHd3IyErM&ab_channel=%EB%93%9C%EB%A6%BC%EC%BD%94%EB%94%A9) / [(3)](https://www.youtube.com/watch?v=yLw591Fn3JU&ab_channel=%EB%9D%BC%EB%A7%A4%EA%B0%9C%EB%B0%9C%EC%9E%90) / [(4) - 니꼬쌤의 영상 흥미롭게 봤당](https://www.youtube.com/watch?v=UJTAGM6yo6g&ab_channel=%EB%85%B8%EB%A7%88%EB%93%9C%EC%BD%94%EB%8D%94NomadCoders) / [(5)](https://www.youtube.com/watch?v=2to3IQFhZVo&ab_channel=eo) <br>
+- 09.11 : [8. 가시 속성(display)](https://hyeongjun030-fe-developer.tistory.com/57) <br>
+- 09.12 : [9. 배경 속성]() / [코딩해주는 AI?!](https://www.youtube.com/watch?v=R-lIeSR8-hE&ab_channel=%EC%BD%94%EB%94%A9%EC%95%A0%ED%94%8C) <br>
+- 09.13 : [10. 글자 속성](https://hyeongjun030-fe-developer.tistory.com/59?category=1018008) <br>
+- 09.14 : [11. 위치 속성](https://hyeongjun030-fe-developer.tistory.com/61) <br>
