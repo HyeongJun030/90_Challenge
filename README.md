@@ -42,4 +42,5 @@
 - 09.12 : [9. 배경 속성]() / [코딩해주는 AI?!](https://www.youtube.com/watch?v=R-lIeSR8-hE&ab_channel=%EC%BD%94%EB%94%A9%EC%95%A0%ED%94%8C) <br>
 - 09.13 : [10. 글자 속성](https://hyeongjun030-fe-developer.tistory.com/59?category=1018008) <br>
 - 09.14 : [11. 위치 속성](https://hyeongjun030-fe-developer.tistory.com/61) <br>
-- 09.15 : [12. 그림자 / 그레이디언트 속성](https://hyeongjun030-fe-developer.tistory.com/62) <br>
+- 09.15 : [12. 유동 속성](https://hyeongjun030-fe-developer.tistory.com/62?category=1018008) <br>
+- 09.16 : [13. 그림자 / 그레이디언트 속성](https://hyeongjun030-fe-developer.tistory.com/63?category=1018008) <br>
