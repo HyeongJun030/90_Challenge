@@ -44,3 +44,4 @@
 - 09.14 : [11. 위치 속성](https://hyeongjun030-fe-developer.tistory.com/61) <br>
 - 09.15 : [12. 유동 속성](https://hyeongjun030-fe-developer.tistory.com/62?category=1018008) <br>
 - 09.16 : [13. 그림자 / 그레이디언트 속성](https://hyeongjun030-fe-developer.tistory.com/63?category=1018008) <br>
+- 09.17 : [14. 수평 / 중앙 / one true 레이아웃](https://hyeongjun030-fe-developer.tistory.com/64) <br>
