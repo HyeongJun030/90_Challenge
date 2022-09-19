@@ -46,3 +46,4 @@
 - 09.16 : [13. 그림자 / 그레이디언트 속성](https://hyeongjun030-fe-developer.tistory.com/63?category=1018008) <br>
 - 09.17 : [14. 수평 / 중앙 / one true 레이아웃](https://hyeongjun030-fe-developer.tistory.com/64) <br>
 - 09.18 : [15. 요소 배치](https://hyeongjun030-fe-developer.tistory.com/66) <br>
+- 09.19 : [16. 글자 생략](https://hyeongjun030-fe-developer.tistory.com/67) <br>
