@@ -51,3 +51,4 @@
 - 09.21 : [HTML/CSS 클론코딩](https://hyeongjun030-fe-developer.tistory.com/68) <br>
 - 09.22 : [반응형 웹](https://hyeongjun030-fe-developer.tistory.com/70) <br>
 - 09.23 : [반응형 웹 패턴](https://hyeongjun030-fe-developer.tistory.com/71) <br>
+- 09.24 : [이게 맞나...?](https://hyeongjun030-fe-developer.tistory.com/72) <br>
