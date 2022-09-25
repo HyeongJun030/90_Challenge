@@ -52,3 +52,4 @@
 - 09.22 : [반응형 웹](https://hyeongjun030-fe-developer.tistory.com/70) <br>
 - 09.23 : [반응형 웹 패턴](https://hyeongjun030-fe-developer.tistory.com/71) <br>
 - 09.24 : [이게 맞나...?](https://hyeongjun030-fe-developer.tistory.com/72) <br>
+- 09.25 : [강의 커리큘럼 소개](https://www.udemy.com/course/the-web-developer-bootcamp-2021-korea/) <br>
