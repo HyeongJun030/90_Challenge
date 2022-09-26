@@ -39,7 +39,7 @@
 - 09.09 : [7. 박스 속성](https://hyeongjun030-fe-developer.tistory.com/29) 추석이라 공부 못함 ㅠ\_ㅠ <br>
 - 09.10 : [추석이니까 가볍게 직업 탐색(1)](https://www.youtube.com/watch?v=1t9nKrsdkdw&ab_channel=%EC%A1%B0%EC%BD%94%EB%94%A9JoCoding) / [(2)](https://www.youtube.com/watch?v=TTLHd3IyErM&ab_channel=%EB%93%9C%EB%A6%BC%EC%BD%94%EB%94%A9) / [(3)](https://www.youtube.com/watch?v=yLw591Fn3JU&ab_channel=%EB%9D%BC%EB%A7%A4%EA%B0%9C%EB%B0%9C%EC%9E%90) / [(4) - 니꼬쌤의 영상 흥미롭게 봤당](https://www.youtube.com/watch?v=UJTAGM6yo6g&ab_channel=%EB%85%B8%EB%A7%88%EB%93%9C%EC%BD%94%EB%8D%94NomadCoders) / [(5)](https://www.youtube.com/watch?v=2to3IQFhZVo&ab_channel=eo) <br>
 - 09.11 : [8. 가시 속성(display)](https://hyeongjun030-fe-developer.tistory.com/57) <br>
-- 09.12 : [9. 배경 속성]() / [코딩해주는 AI?!](https://www.youtube.com/watch?v=R-lIeSR8-hE&ab_channel=%EC%BD%94%EB%94%A9%EC%95%A0%ED%94%8C) <br>
+- 09.12 : [9. 배경 속성](https://hyeongjun030-fe-developer.tistory.com/58) / [코딩해주는 AI?!](https://www.youtube.com/watch?v=R-lIeSR8-hE&ab_channel=%EC%BD%94%EB%94%A9%EC%95%A0%ED%94%8C) <br>
 - 09.13 : [10. 글자 속성](https://hyeongjun030-fe-developer.tistory.com/59?category=1018008) <br>
 - 09.14 : [11. 위치 속성](https://hyeongjun030-fe-developer.tistory.com/61) <br>
 - 09.15 : [12. 유동 속성](https://hyeongjun030-fe-developer.tistory.com/62?category=1018008) <br>
@@ -53,3 +53,4 @@
 - 09.23 : [반응형 웹 패턴](https://hyeongjun030-fe-developer.tistory.com/71) <br>
 - 09.24 : [이게 맞나...?](https://hyeongjun030-fe-developer.tistory.com/72) <br>
 - 09.25 : [강의 커리큘럼 소개](https://www.udemy.com/course/the-web-developer-bootcamp-2021-korea/) <br>
+- 09.26 : [웹 개발이란](https://hyeongjun030-fe-developer.tistory.com/74) / [저격글...? ㅋㅋㅋㅋㅋ](https://hyeongjun030-fe-developer.tistory.com/73) <br>
