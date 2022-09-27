@@ -54,3 +54,4 @@
 - 09.24 : [이게 맞나...?](https://hyeongjun030-fe-developer.tistory.com/72) <br>
 - 09.25 : [강의 커리큘럼 소개](https://www.udemy.com/course/the-web-developer-bootcamp-2021-korea/) <br>
 - 09.26 : [웹 개발이란](https://hyeongjun030-fe-developer.tistory.com/74) / [저격글...? ㅋㅋㅋㅋㅋ](https://hyeongjun030-fe-developer.tistory.com/73) <br>
+- 09.27 : [HTML 기초](https://www.udemy.com/course/the-web-developer-bootcamp-2021-korea/learn/lecture/28494686#content) <br>
