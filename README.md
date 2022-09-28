@@ -55,3 +55,4 @@
 - 09.25 : [강의 커리큘럼 소개](https://www.udemy.com/course/the-web-developer-bootcamp-2021-korea/) <br>
 - 09.26 : [웹 개발이란](https://hyeongjun030-fe-developer.tistory.com/74) : 배운 내용을 깃허브와 블로그에 올리고 싶지만 오픈 소스들이 아닌 유료 강의의 자료이다 보니 올려도 되는지 모르겠다... 구글링하면 강의 내용들을 정리해놓은 블로그들이 나오긴 하지만 불안하니 일단 Keep ! / [저격글...? ㅋㅋㅋㅋㅋ](https://hyeongjun030-fe-developer.tistory.com/73) <br>
 - 09.27 : [HTML 기초](https://www.udemy.com/course/the-web-developer-bootcamp-2021-korea/learn/lecture/28494686#content) <br>
+- 09.28 : [HTML 시멘틱](https://www.udemy.com/course/the-web-developer-bootcamp-2021-korea/learn/lecture/28494756#content) <br>
