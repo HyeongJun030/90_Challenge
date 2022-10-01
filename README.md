@@ -57,3 +57,5 @@
 - 09.27 : [HTML 기초](https://www.udemy.com/course/the-web-developer-bootcamp-2021-korea/learn/lecture/28494686#content) <br>
 - 09.28 : [HTML 시멘틱](https://www.udemy.com/course/the-web-developer-bootcamp-2021-korea/learn/lecture/28494756#content) <br>
 - 09.29 : [HTML 폼](https://www.udemy.com/course/the-web-developer-bootcamp-2021-korea/learn/lecture/28494882?start=705#content) <br>
+- 09.30 : [HTML 폼+테이블](https://www.udemy.com/course/the-web-developer-bootcamp-2021-korea/learn/lecture/28494864#content) <br>
+- 10.01 : [CSS 기초](https://www.udemy.com/course/the-web-developer-bootcamp-2021-korea/learn/lecture/28494898#content) <br>
