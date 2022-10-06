@@ -65,4 +65,5 @@
 - 10.02 : 쉬는 날 ㅎㅎ
 - 10.03 : [CSS 선택자](https://www.udemy.com/course/the-web-developer-bootcamp-2021-korea/learn/lecture/28494968#overview) <br>
 - 10.04 : [CSS 박스 모델](https://www.udemy.com/course/the-web-developer-bootcamp-2021-korea/learn/lecture/28495016#overview) <br>
-- 10.05 : [유용한 CSS 속성들](https://www.udemy.com/course/the-web-developer-bootcamp-2021-korea/learn/lecture/28495068#overview) <br>
+- 10.05 : [유용한 CSS 속성들(1)](https://www.udemy.com/course/the-web-developer-bootcamp-2021-korea/learn/lecture/28495068#overview) <br>
+- 10.06 : [유용한 CSS 속성들(2)](https://www.udemy.com/course/the-web-developer-bootcamp-2021-korea/learn/lecture/28495082#overview) <br>
