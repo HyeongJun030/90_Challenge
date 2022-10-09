@@ -67,3 +67,4 @@
 - 10.04 : [CSS 박스 모델](https://www.udemy.com/course/the-web-developer-bootcamp-2021-korea/learn/lecture/28495016#overview) <br>
 - 10.05 : [유용한 CSS 속성들(1)](https://www.udemy.com/course/the-web-developer-bootcamp-2021-korea/learn/lecture/28495068#overview) <br>
 - 10.06 : [유용한 CSS 속성들(2)](https://www.udemy.com/course/the-web-developer-bootcamp-2021-korea/learn/lecture/28495082#overview) <br>
+- 10.07 ~ 10.16 : 정보처리기사 공부 집중하기
