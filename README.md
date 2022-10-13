@@ -69,3 +69,4 @@
 - 10.06 : [유용한 CSS 속성들(2)](https://www.udemy.com/course/the-web-developer-bootcamp-2021-korea/learn/lecture/28495082#overview) <br>
 - 10.07 ~ 10.16 : 정보처리기사 공부 집중하기
 - 10.10 : [WEB 3.0](https://www.youtube.com/watch?v=RLVl22v3djc&ab_channel=%EB%85%B8%EB%A7%88%EB%93%9C%EC%BD%94%EB%8D%94NomadCoders) / [노션 TIP](https://www.youtube.com/watch?v=XCAwSBdeejU&ab_channel=%EB%85%B8%EB%A7%88%EB%93%9C%EC%BD%94%EB%8D%94NomadCoders)<br>
+- 10.13 : [프론트엔드 서버 & 백엔드 서버](https://www.youtube.com/watch?v=9suWgeLZhLg&ab_channel=%EB%9D%BC%EB%A7%A4%EA%B0%9C%EB%B0%9C%EC%9E%90) <br>
