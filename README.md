@@ -72,3 +72,4 @@
 - 10.13 : 예비군 훈련[4년차] / [프론트엔드 서버 & 백엔드 서버](https://www.youtube.com/watch?v=9suWgeLZhLg&ab_channel=%EB%9D%BC%EB%A7%A4%EA%B0%9C%EB%B0%9C%EC%9E%90) <br>
 - 10.16 : 정보처리기사 실기 시험
 - 10.17 : [반응형 CSS](https://www.udemy.com/course/the-web-developer-bootcamp-2021-korea/learn/lecture/28495118#overview) <br>
+- 10.18 : [가격표 만들기 실습](https://www.udemy.com/course/the-web-developer-bootcamp-2021-korea/learn/lecture/28495160#overview) <br>
