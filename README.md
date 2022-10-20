@@ -56,7 +56,7 @@
 
 - 09.24 : [이게 맞나...?](https://hyeongjun030-fe-developer.tistory.com/72) <br>
 - 09.25 : [강의 커리큘럼 소개](https://www.udemy.com/course/the-web-developer-bootcamp-2021-korea/) <br>
-- 09.26 : 강의를 통해 배운 내용을 깃허브와 블로그에 올리고 싶지만 오픈 소스들이 아닌 유료 강의의 자료이다 보니 올려도 되는지 모르겠다... 구글링하면 강의 내용들을 정리해놓은 블로그들이 나오긴 하지만 불안하니 일단 Keep ! / [웹 개발이란](https://hyeongjun030-fe-developer.tistory.com/74) / [저격글...? ㅋㅋㅋㅋㅋ](https://hyeongjun030-fe-developer.tistory.com/73) <br>
+- 09.26 : 강의를 통해 배운 내용을 깃허브와 블로그에 올리고 싶지만 오픈 소스들이 아닌 유료 강의의 자료이다 보니 올려도 되는지 모르겠다... 구글링하면 강의 내용들을 정리해놓은 블로그들이 나오긴 하지만 저작권 보호법 때문에 불안하니 일단 Keep ! / [웹 개발이란](https://hyeongjun030-fe-developer.tistory.com/74) / [저격글...? ㅋㅋㅋㅋㅋ](https://hyeongjun030-fe-developer.tistory.com/73) <br>
 - 09.27 : [HTML 기초](https://www.udemy.com/course/the-web-developer-bootcamp-2021-korea/learn/lecture/28494686#content) <br>
 - 09.28 : [HTML 시멘틱](https://www.udemy.com/course/the-web-developer-bootcamp-2021-korea/learn/lecture/28494756#content) <br>
 - 09.29 : [HTML 폼](https://www.udemy.com/course/the-web-developer-bootcamp-2021-korea/learn/lecture/28494882?start=705#content) <br>
@@ -69,7 +69,9 @@
 - 10.06 : [유용한 CSS 속성들(2)](https://www.udemy.com/course/the-web-developer-bootcamp-2021-korea/learn/lecture/28495082#overview) <br>
 - 10.07 ~ 10.16 : 정보처리기사 공부 집중하기
 - 10.10 : [WEB 3.0](https://www.youtube.com/watch?v=RLVl22v3djc&ab_channel=%EB%85%B8%EB%A7%88%EB%93%9C%EC%BD%94%EB%8D%94NomadCoders) / [노션 TIP](https://www.youtube.com/watch?v=XCAwSBdeejU&ab_channel=%EB%85%B8%EB%A7%88%EB%93%9C%EC%BD%94%EB%8D%94NomadCoders)<br>
-- 10.13 : 예비군 훈련[4년차] / [프론트엔드 서버 & 백엔드 서버](https://www.youtube.com/watch?v=9suWgeLZhLg&ab_channel=%EB%9D%BC%EB%A7%A4%EA%B0%9C%EB%B0%9C%EC%9E%90) <br>
+- 10.13 : 예비군 훈련[4년차] / [프론트엔드 서버 / 백엔드 서버 구분 이유](https://www.youtube.com/watch?v=9suWgeLZhLg&ab_channel=%EB%9D%BC%EB%A7%A4%EA%B0%9C%EB%B0%9C%EC%9E%90) <br>
 - 10.16 : 정보처리기사 실기 시험
 - 10.17 : [반응형 CSS](https://www.udemy.com/course/the-web-developer-bootcamp-2021-korea/learn/lecture/28495118#overview) <br>
 - 10.18 : [가격표 만들기 실습](https://www.udemy.com/course/the-web-developer-bootcamp-2021-korea/learn/lecture/28495160#overview) <br>
+- 10.19 : [CSS 프레임워크 : 부트스트랩(1)](https://www.udemy.com/course/the-web-developer-bootcamp-2021-korea/learn/lecture/28495198#overview) <br>
+- 10.20 : [CSS 프레임워크 : 부트스트랩(2)](https://www.udemy.com/course/the-web-developer-bootcamp-2021-korea/learn/lecture/28495198#overview) <br>
