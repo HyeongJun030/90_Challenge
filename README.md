@@ -76,3 +76,4 @@
 - 10.19 : [CSS 프레임워크 : 부트스트랩(1)](https://www.udemy.com/course/the-web-developer-bootcamp-2021-korea/learn/lecture/28495198#overview) <br>
 - 10.20 : [CSS 프레임워크 : 부트스트랩(2)](https://www.udemy.com/course/the-web-developer-bootcamp-2021-korea/learn/lecture/28495198#overview) <br>
 - 10.21 : [사탕 박물관 웹페이지 만들기](https://www.udemy.com/course/the-web-developer-bootcamp-2021-korea/learn/lecture/28495332#overview)<br>
+- 10.22 : [JavaScript 기초](https://www.udemy.com/course/the-web-developer-bootcamp-2021-korea/learn/lecture/28495358#overview)<br>
