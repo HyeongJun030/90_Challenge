@@ -56,7 +56,7 @@
 
 - 09.24 : [이게 맞나...?](https://hyeongjun030-fe-developer.tistory.com/72) <br>
 - 09.25 : [강의 커리큘럼 소개](https://www.udemy.com/course/the-web-developer-bootcamp-2021-korea/) <br>
-- 09.26 : 강의를 통해 배운 내용을 깃허브와 블로그에 올리고 싶지만 오픈 소스들이 아닌 유료 강의의 자료이다 보니 올려도 되는지 모르겠다... 구글링하면 강의 내용들을 정리해놓은 블로그들이 나오긴 하지만 저작권 보호법 때문에 불안하니 일단 Keep ! / [웹 개발이란](https://hyeongjun030-fe-developer.tistory.com/74) / [저격글...? ㅋㅋㅋㅋㅋ](https://hyeongjun030-fe-developer.tistory.com/73) <br>
+- 09.26 : 강의를 통해 배운 내용을 깃허브와 블로그에 올리고 싶지만 오픈 소스들이 아닌 유료 강의의 자료이다 보니 올려도 되는지 모르겠다... 구글링하면 강의 내용들을 정리해놓은 블로그들이 나오긴 하지만 저작권 보호법 때문에 불안하니 일단 비공개 ! / [웹 개발이란](https://hyeongjun030-fe-developer.tistory.com/74) / [저격글...? ㅋㅋㅋㅋㅋ](https://hyeongjun030-fe-developer.tistory.com/73) <br>
 - 09.27 : [HTML 기초](https://www.udemy.com/course/the-web-developer-bootcamp-2021-korea/learn/lecture/28494686#content) <br>
 - 09.28 : [HTML 시멘틱](https://www.udemy.com/course/the-web-developer-bootcamp-2021-korea/learn/lecture/28494756#content) <br>
 - 09.29 : [HTML 폼](https://www.udemy.com/course/the-web-developer-bootcamp-2021-korea/learn/lecture/28494882?start=705#content) <br>
@@ -77,3 +77,4 @@
 - 10.20 : [CSS 프레임워크 : 부트스트랩(2)](https://www.udemy.com/course/the-web-developer-bootcamp-2021-korea/learn/lecture/28495198#overview) <br>
 - 10.21 : [사탕 박물관 웹페이지 만들기](https://www.udemy.com/course/the-web-developer-bootcamp-2021-korea/learn/lecture/28495332#overview)<br>
 - 10.22 : [JavaScript 기초](https://www.udemy.com/course/the-web-developer-bootcamp-2021-korea/learn/lecture/28495358#overview)<br>
+- 10.23 : [JavaScript 문자열](https://www.udemy.com/course/the-web-developer-bootcamp-2021-korea/learn/lecture/28495394#overview)<br>
