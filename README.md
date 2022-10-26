@@ -54,13 +54,13 @@
 
 ---
 
-- 09.24 : [이게 맞나...?](https://hyeongjun030-fe-developer.tistory.com/72) <br>
+- 09.24 : [이게 맞나...?](https://hyeongjun030-fe-developer.tistory.com/72) 복습한다고 생각하고 다시 천천히 해보자 ㅋㅋㅋ <br>
 - 09.25 : [강의 커리큘럼 소개](https://www.udemy.com/course/the-web-developer-bootcamp-2021-korea/) <br>
 - 09.26 : 강의를 통해 배운 내용을 깃허브와 블로그에 올리고 싶지만 오픈 소스들이 아닌 유료 강의의 자료이다 보니 올려도 되는지 모르겠다... 구글링하면 강의 내용들을 정리해놓은 블로그들이 나오긴 하지만 저작권 보호법 때문에 불안하니 일단 비공개 ! / [웹 개발이란](https://hyeongjun030-fe-developer.tistory.com/74) / [저격글...? ㅋㅋㅋㅋㅋ](https://hyeongjun030-fe-developer.tistory.com/73) <br>
 - 09.27 : [HTML 기초](https://www.udemy.com/course/the-web-developer-bootcamp-2021-korea/learn/lecture/28494686#content) <br>
 - 09.28 : [HTML 시멘틱](https://www.udemy.com/course/the-web-developer-bootcamp-2021-korea/learn/lecture/28494756#content) <br>
 - 09.29 : [HTML 폼](https://www.udemy.com/course/the-web-developer-bootcamp-2021-korea/learn/lecture/28494882?start=705#content) <br>
-- 09.30 : [HTML 폼+테이블](https://www.udemy.com/course/the-web-developer-bootcamp-2021-korea/learn/lecture/28494864#content) <br>
+- 09.30 : [HTML 폼+테이블](https://wㄴww.udemy.com/course/the-web-developer-bootcamp-2021-korea/learn/lecture/28494864#content) <br>
 - 10.01 : [CSS 기초](https://www.udemy.com/course/the-web-developer-bootcamp-2021-korea/learn/lecture/28494898#content) <br>
 - 10.02 : 쉬는 날 ㅎㅎ
 - 10.03 : [CSS 선택자](https://www.udemy.com/course/the-web-developer-bootcamp-2021-korea/learn/lecture/28494968#overview) <br>
@@ -80,3 +80,4 @@
 - 10.23 : [JavaScript 문자열](https://www.udemy.com/course/the-web-developer-bootcamp-2021-korea/learn/lecture/28495394#overview)<br>
 - 10.24 : [JavaScript 판단 내리기(1)](https://www.udemy.com/course/the-web-developer-bootcamp-2021-korea/learn/lecture/28495418#overview)<br>
 - 10.25 : [JavaScript 판단 내리기(2)](https://www.udemy.com/course/the-web-developer-bootcamp-2021-korea/learn/lecture/28495418#overview)<br>
+- 10.26 : [JavaScript 배열](https://www.udemy.com/course/the-web-developer-bootcamp-2021-korea/learn/lecture/28495480#overview)<br>
