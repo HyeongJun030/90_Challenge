@@ -81,3 +81,4 @@
 - 10.24 : [JavaScript 판단 내리기(1)](https://www.udemy.com/course/the-web-developer-bootcamp-2021-korea/learn/lecture/28495418#overview)<br>
 - 10.25 : [JavaScript 판단 내리기(2)](https://www.udemy.com/course/the-web-developer-bootcamp-2021-korea/learn/lecture/28495418#overview)<br>
 - 10.26 : [JavaScript 배열](https://www.udemy.com/course/the-web-developer-bootcamp-2021-korea/learn/lecture/28495480#overview)<br>
+- 10.27 : [JavaScript 리터럴](https://www.udemy.com/course/the-web-developer-bootcamp-2021-korea/learn/lecture/28495526#overview)<br>
