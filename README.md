@@ -83,3 +83,5 @@
 - 10.26 : [JavaScript 배열](https://www.udemy.com/course/the-web-developer-bootcamp-2021-korea/learn/lecture/28495480#overview)<br>
 - 10.27 : [JavaScript 리터럴](https://www.udemy.com/course/the-web-developer-bootcamp-2021-korea/learn/lecture/28495526#overview)<br>
 - 10.28 : [JavaScript 루프 구조](https://www.udemy.com/course/the-web-developer-bootcamp-2021-korea/learn/lecture/28495542#overview)<br>
+- 10.29 ~ 10.30 : 여행
+- 10.31 : [JavaScript 함수](https://www.udemy.com/course/the-web-developer-bootcamp-2021-korea/learn/lecture/28495594#overview)<br>
