@@ -86,3 +86,4 @@
 - 10.29 ~ 10.30 : 여행
 - 10.31 : [JavaScript 함수](https://www.udemy.com/course/the-web-developer-bootcamp-2021-korea/learn/lecture/28495594#overview)<br>
 - 11.01 : [JavaScript 함수 고급](https://www.udemy.com/course/the-web-developer-bootcamp-2021-korea/learn/lecture/28495628#overview)<br>
+- 11.02 : [콜백과 배열](https://www.udemy.com/course/the-web-developer-bootcamp-2021-korea/learn/lecture/28495688#overview)<br>
