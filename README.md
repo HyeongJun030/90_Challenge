@@ -89,3 +89,4 @@
 - 11.02 : [콜백과 배열](https://www.udemy.com/course/the-web-developer-bootcamp-2021-korea/learn/lecture/28495688#overview)<br>
 - 11.03 : [JavaScript 최신 기능](https://www.udemy.com/course/the-web-developer-bootcamp-2021-korea/learn/lecture/28495750#overview)<br>
 - 11.04 : [DOM](https://www.udemy.com/course/the-web-developer-bootcamp-2021-korea/learn/lecture/28495788#overview)<br>
+- 11.05 : [DOM 이벤트](https://www.udemy.com/course/the-web-developer-bootcamp-2021-korea/learn/lecture/28495848#overview)<br>
