@@ -1,22 +1,19 @@
-![header](<https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=D-90%20Challenge%20(기억보다는%20기록을!)&fontSize=50>)
-<br>
-: 정보처리기사 시험 보기 전까지 매일 단 10분이라도 공부한 것들에 대해 기록하기(10.16까지) <br>
-: 정보처리기사는 하루 3시간씩 무조건 공부하기 <br>
-: 정보처리기사 시험 보고 난 이후에는 더욱 빡세게 공부하기(10.16부터)
-<br>
+![header](<https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=What did I study today?&fontSize=50>)
 <br>
 
 ## ✏️ Studying
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=black"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=black"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">
 <br>
-: JS까지 공부하고 Node.js, React, Vue 등 어떤 기술을 학습할지 고민해보고 이후 공부 진행하기!
+: 배운 기술이 늘어나면 태그 추가하기 !
 <br>
 <br>
 
 ## ⚒️ Tools
 
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=black"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=black">
+<br>
+: 사용한 툴이 늘어나면 태그 추가하기 !
 <br>
 <br>
 
@@ -26,7 +23,7 @@
 <br>
 <br>
 
-## ☁️ What i studied today
+## ☁️ What did I study today?
 
 - 09.01 : GitHub Repositorie 만들기 <br>
 - 09.02 : [인터넷과 웹의 개요](https://hyeongjun030-fe-developer.tistory.com/6?category=1018163) / [웹 표준 기술](https://hyeongjun030-fe-developer.tistory.com/7?category=1018163) / [HTML 공부의 이유](https://hyeongjun030-fe-developer.tistory.com/8?category=1018163) / [GitHub 사용법 학습](https://hyeongjun030-fe-developer.tistory.com/47?category=1018163)<br>
