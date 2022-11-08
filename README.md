@@ -89,3 +89,4 @@
 - 11.05 : [DOM 이벤트](https://www.udemy.com/course/the-web-developer-bootcamp-2021-korea/learn/lecture/28495848#overview)<br>
 - 11.06 : [점수 관리자 프로젝트](https://www.udemy.com/course/the-web-developer-bootcamp-2021-korea/learn/lecture/28495894#overview)<br>
 - 11.07 : [비동기식 자바스크립트](https://www.udemy.com/course/the-web-developer-bootcamp-2021-korea/learn/lecture/28495906#overview)<br>
+- 11.08 : [AJAX, API](https://www.udemy.com/course/the-web-developer-bootcamp-2021-korea/learn/lecture/28495936#overview)<br>
