@@ -92,3 +92,4 @@
 - 11.08 : [AJAX, API](https://www.udemy.com/course/the-web-developer-bootcamp-2021-korea/learn/lecture/28495936#overview)<br>
 - 11.09 : [프로토타입, 클래스, OOP](https://www.udemy.com/course/the-web-developer-bootcamp-2021-korea/learn/lecture/28495978#overview)<br>
 - 11.10 : [터미널, 노드](https://www.udemy.com/course/the-web-developer-bootcamp-2021-korea/learn/lecture/28496012#overview)<br>
+- 11.11 : [모듈, npm](https://www.udemy.com/course/the-web-developer-bootcamp-2021-korea/learn/lecture/28496074#overview)<br>
