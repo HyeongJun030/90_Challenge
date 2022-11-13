@@ -94,3 +94,4 @@
 - 11.10 : [터미널, 노드](https://www.udemy.com/course/the-web-developer-bootcamp-2021-korea/learn/lecture/28496012#overview)<br>
 - 11.11 : [모듈, npm](https://www.udemy.com/course/the-web-developer-bootcamp-2021-korea/learn/lecture/28496074#overview)<br>
 - 11.12 : [express로 서버 구축하기](https://www.udemy.com/course/the-web-developer-bootcamp-2021-korea/learn/lecture/28496100#overview)<br>
+- 11.13 : [템플레이팅으로 동적 HTML 구성하기](https://www.udemy.com/course/the-web-developer-bootcamp-2021-korea/learn/lecture/28496150#overview)<br>
