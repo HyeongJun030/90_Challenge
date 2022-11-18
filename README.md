@@ -99,3 +99,4 @@
 - 11.15 : 쉬는 날
 - 11.16 : [Mongo DB](https://www.udemy.com/course/the-web-developer-bootcamp-2021-korea/learn/lecture/28496266#overview)<br>
 - 11.17 : [Mongoose로 Mongo DB에 접속하기](https://www.udemy.com/course/the-web-developer-bootcamp-2021-korea/learn/lecture/28496302#overview)<br>
+- 11.18 : [Mongoose와 Mongo DB를 Express 앱에 연결하기](https://www.udemy.com/course/the-web-developer-bootcamp-2021-korea/learn/lecture/28496394#overview)<br>
