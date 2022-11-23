@@ -104,3 +104,4 @@
 - 11.20 : [Express key](https://www.udemy.com/course/the-web-developer-bootcamp-2021-korea/learn/lecture/28496478#overview)<br>
 - 11.21 : [YelpCamp 기본 스타일 추가하기](https://www.udemy.com/course/the-web-developer-bootcamp-2021-korea/learn/lecture/28496508#overview)<br>
 - 11.22 : [Express 앱 오류 처리](https://www.udemy.com/course/the-web-developer-bootcamp-2021-korea/learn/lecture/28496548#overview)<br>
+- 11.23 : [YalpCamp 오류 및 데이터 검증](https://www.udemy.com/course/the-web-developer-bootcamp-2021-korea/learn/lecture/28496586#overview)<br>
