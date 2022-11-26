@@ -107,3 +107,4 @@
 - 11.23 : [YalpCamp 오류 및 데이터 검증](https://www.udemy.com/course/the-web-developer-bootcamp-2021-korea/learn/lecture/28496586#overview)<br>
 - 11.24: [Mongo에 데이터 연결](https://www.udemy.com/course/the-web-developer-bootcamp-2021-korea/learn/lecture/28496618#overview)<br>
 - 11.25 : [Express와 Mongo를 연결](https://www.udemy.com/course/the-web-developer-bootcamp-2021-korea/learn/lecture/28496690#overview)<br>
+- 11.26 : [Yalpcamp 리뷰 모델 추가하기](https://www.udemy.com/course/the-web-developer-bootcamp-2021-korea/learn/lecture/28496760#overview)<br>
