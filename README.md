@@ -109,3 +109,4 @@
 - 11.25 : [Express와 Mongo를 연결](https://www.udemy.com/course/the-web-developer-bootcamp-2021-korea/learn/lecture/28496690#overview)<br>
 - 11.26 : [Yalpcamp 리뷰 모델 추가하기](https://www.udemy.com/course/the-web-developer-bootcamp-2021-korea/learn/lecture/28496760#overview)<br>
 - 11.27 : [Express 라우터, 쿠키](https://www.udemy.com/course/the-web-developer-bootcamp-2021-korea/learn/lecture/28496820#overview)<br>
+- 11.28 : [Express 세션, 플래시](https://www.udemy.com/course/the-web-developer-bootcamp-2021-korea/learn/lecture/28496864#overview)<br>
