@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <style>
+      td {
+        text-align: center;
+        border: 1px solid black;
+      }
+    </style>
+  </head>
+  <body>
+    <table>
+      <colgroup>
+        <col style="width: 100px" />
+        <col style="width: 100px" />
+        <col style="width: 100px" />
+        <col style="width: 100px" />
+        <col style="width: 100px" />
+      </colgroup>
+      <caption>
+        <b>수강생 명단</b>
+      </caption>
+      <thead>
+        <tr>
+          <th>번호</th>
+          <th>이름</th>
+          <th>학번</th>
+          <th>학과</th>
+          <th>비고</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>1</td>
+          <td>홍길동</td>
+          <td>20152015</td>
+          <td>경제학과</td>
+          <td>눈에 보이는듯 안보임</td>
+        </tr>
+        <tr>
+          <td>2</td>
+          <td>이순신</td>
+          <td>15921592</td>
+          <td>군사학과</td>
+          <td rowspan="3">-</td>
+        </tr>
+        <tr>
+          <td>3</td>
+          <td>박지성</td>
+          <td>20022002</td>
+          <td>체육학과</td>
+          <!-- 위에서 rowspan="3"이라는 값으로 비고를 하나의 칸으로 묶어 버렸기 떄문에 자리를 비워줘야 한다.
+            <td>-</td> 
+          -->
+        </tr>
+        <tr>
+          <td>4</td>
+          <td>스티브</td>
+          <td>20102010</td>
+          <td>반도체공학과</td>
+          <!-- 
+            <td>-</td>
+          -->
+        </tr>
+        <tr>
+          <td>5</td>
+          <td>아무개</td>
+          <td colspan="3">자퇴</td>
+          <!-- colspan은 정한 숫자만큼의 열을 하나의 행으로 묶을 수 있습니다. -->
+          <!-- 원래는 아래와 같이 나열되어 있었지만 하나로 묶기 위해서는 자리를 비워줘야 합니다.  
+            <td>20102010</td>
+            <td>반도체공학과</td>
+            <td>-</td>
+          -->
+        </tr>
+      </tbody>
+    </table>
+  </body>
+</html>

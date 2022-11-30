@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <style>
+      h1,
+      p {
+        width: 500px;
+      }
+      .ellipsis {
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+      }
+    </style>
+  </head>
+  <body>
+    <h1 class="ellipsis">글자를 생략하는 방법</h1>
+    <p class="ellipsis">
+      위에서 h1과 p 태그의 width 값을 500px로 지정했기 때문에 글자의 너비가
+      200px이 넘는 경우 ...으로 표시하게 됩니다.
+    </p>
+  </body>
+</html>
