@@ -112,3 +112,4 @@
 - 11.28 : [Express 세션, 플래시](https://www.udemy.com/course/the-web-developer-bootcamp-2021-korea/learn/lecture/28496864#overview)<br>
 - 11.29 : ...
 - 11.30 : [Yalpcamp 재구성 및 플래시](https://www.udemy.com/course/the-web-developer-bootcamp-2021-korea/learn/lecture/28496914#overview)<br>
+- 12.01 : [인증, Auth Demo](https://www.udemy.com/course/the-web-developer-bootcamp-2021-korea/learn/lecture/28496980#overview)<br>
