@@ -114,3 +114,4 @@
 - 11.30 : [Yalpcamp 재구성 및 플래시](https://www.udemy.com/course/the-web-developer-bootcamp-2021-korea/learn/lecture/28496914#overview)<br>
 - 12.01 : [인증, Auth Demo](https://www.udemy.com/course/the-web-developer-bootcamp-2021-korea/learn/lecture/28496980#overview)<br>
 - 12.02 : [Passport, 인증된 상태에서 추가하기](https://www.udemy.com/course/the-web-developer-bootcamp-2021-korea/learn/lecture/28497050#overview)<br>
+- 12.03 : [기본 권한 부여, Author 추가](https://www.udemy.com/course/the-web-developer-bootcamp-2021-korea/learn/lecture/28497112#overview)<br>
