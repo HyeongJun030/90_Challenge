@@ -11,9 +11,44 @@
 <body>
     <h2> </h2>
     <form action="/cats">
+        <h2>체크박스</h2>
+        <label for="checkbox">동의여부</label>
+        <input type="checkbox" name="checkbox" id="checkbox"> <!-- 체크박스 -->
 
-        <input type="checkbox" name="" id="">
-        <label for=""></label>
+        <h2>라디오 버튼</h2>
+        <p>
+            <label for="1020"> 10~20대</label>
+            <input type="radio" name="age" id="1020" value="10~20">
+            <label for="3040"> 30~40대</label>
+            <input type="radio" name="age" id="3040" value="30~40">
+            <label for="5060"> 50~60대</label>
+            <input type="radio" name="age" id="5060" value="50~60">
+        </p>
+        <p>
+            <label for="fruits"> 과일 종류</label>
+            <select name="fruits" id="fruits">
+                <option value="apple">사과</option>
+                <option value="orange">오렌지</option>
+                <option value="banana">바나나</option>
+                <option value="mango">망고</option>
+                <option value="pear">배</option>
+            </select>
+        </p>
+        <p>
+            <label for="age"> 나이 </label>
+            <input type="range" id="age" name="age" min="0" max="100" step="20">
+        </p>
+        <p>
+            <input type="number" placeholder="0" name="number" min="1" max="20">
+        </p>
+
+        <p>
+            <label for="question"> 질문을 작성하세요.</label> <br>
+            <textarea id="question" name="question" rows="20" cols="20" placeholder="질문을 작성하세요"></textarea>
+        </p>
+        <button> 제출하기 </button>
+
+
     </form>
 </body>
 

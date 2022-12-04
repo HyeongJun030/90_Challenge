@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> 놀이공원 입장권 구매 페이지</title>
+</head>
+
+<body>
+    <h1> 놀이공원 입장권 구매</h1>
+    <form action="/">
+        <div>
+            <!-- action 속성은 데이터를 어디로 제출할지 결정하는 역할을 합니다. -->
+            <laebl for="first"> 성을 입력하세요 : </laebl>
+            <input type="text" id="first" name="firstname" placeholder="성" required>
+            <laebl for="last"> 이름을 입력하세요 : </laebl>
+            <input type="text" id="last" name="lastname" placeholder="이름" required>
+        </div>
+
+        <p> * 이용 시간을 선택하세요. </p>
+        <!-- 라디오 버튼 항목을 하나로 묶을 때는 name 속성의 값을 갖게 해줘야 합니다. -->
+        <div>
+            <input type="radio" name="time" id="morning" value="8~12">
+            <label for="morning"> 오전 8시 ~ 오후 12시 </label>
+        </div>
+        <div>
+            <input type="radio" name="time" id="afternoon" value="1~6">
+            <label for="afternoon"> 오후 1시 ~ 오후 6시</label>
+        </div>
+        <div>
+            <input type="radio" name="time" id="night" value="7~12">
+            <label for="night"> 저녁 7시 ~ 저녁 12시</label>
+        </div>
+        <br>
+        <div>
+            <label for="id">아이디를 입력하세요 : </label>
+            <input type="text" name="id" id="id" placeholder="아아디" required>
+            <label for="password">비밀번호를 입력하세요 : </label>
+            <input type="password" name="password" id="password" placeholder="비밀번호" required>
+        </div>
+        <br>
+        <div>
+            <label for="age"> 연령대를 입력하세요 : </label>
+            <select name="age" id="age">
+                <option value="0~9">0~9</option>
+                <option value="10~19">10~19</option>
+                <option value="20~29">20~29</option>
+                <option value="30~39">30~39</option>
+                <option value="40~49">40~49</option>
+                <option value="50~59">50~59</option>
+            </select>
+        </div>
+        <br>
+        <button> 제출하기</button>
+    </form>
+
+</body>
+
+</html>
