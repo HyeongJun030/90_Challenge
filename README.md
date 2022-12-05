@@ -116,3 +116,4 @@
 - 12.02 : [Passport, 인증된 상태에서 추가하기](https://www.udemy.com/course/the-web-developer-bootcamp-2021-korea/learn/lecture/28497050#overview)<br>
 - 12.03 : [기본 권한 부여, Author 추가](https://www.udemy.com/course/the-web-developer-bootcamp-2021-korea/learn/lecture/28497112#overview)<br>
 - 12.04 : [컨트롤러로 리팩터링하기 + 별점 표시 기능 추가](https://www.udemy.com/course/the-web-developer-bootcamp-2021-korea/learn/lecture/28497174#overview)<br>
+- 12.05 : [YalpCamp 이미지 업로드 방법](https://www.udemy.com/course/the-web-developer-bootcamp-2021-korea/learn/lecture/28497200#overview)<br>
