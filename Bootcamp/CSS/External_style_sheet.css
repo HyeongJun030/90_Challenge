@@ -1,0 +1,12 @@
+h1 {            /* h1 태그를 사용하는 요소들의 글자에 yellowgreen 색상을 적용합니다. */
+    color : yellowgreen;
+}
+
+h2 {            /* h2 태그를 사용하는 요소들의 글자에 orange 색상을 적용합니다. */
+    color : orange;
+}
+
+button {        /* button 태그를 사용하는 요소들의 글자에 yellow를, 배경색에는 black 색상을 적용합니다. */
+    color : yellow;
+    background-color: black;
+}
