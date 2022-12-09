@@ -120,3 +120,4 @@
 - 12.06 : [Map 추가하기](https://www.udemy.com/course/the-web-developer-bootcamp-2021-korea/learn/lecture/28497256#overview)<br>
 - 12.07 : [클러스터 맵?](https://www.udemy.com/course/the-web-developer-bootcamp-2021-korea/learn/lecture/28497284#overview)<br>
 - 12.08 : [홈페이지 스타일링](https://www.udemy.com/course/the-web-developer-bootcamp-2021-korea/learn/lecture/28497326#overview)<br>
+- 12.09 : [보안 문제, Mongo Injection, XSS, 유효화, 오류 숨기기, Helmet](https://www.udemy.com/course/the-web-developer-bootcamp-2021-korea/learn/lecture/28497364#overview)<br>
