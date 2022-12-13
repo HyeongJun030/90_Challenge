@@ -123,3 +123,4 @@
 - 12.09 : [보안 문제, Mongo Injection, XSS, 유효화, 오류 숨기기, Helmet](https://www.udemy.com/course/the-web-developer-bootcamp-2021-korea/learn/lecture/28497364#overview)<br>
 - 12.10 : [Mongo Atlas 설정, Heroku 설정](https://www.udemy.com/course/the-web-developer-bootcamp-2021-korea/learn/lecture/28497408#overview)<br>
 - 12.11 : [React 공부 시작](https://www.udemy.com/course/best-react/learn/lecture/28516611#overview)<br>
+- 12.12 : [자바스크립트 새로고침](https://www.udemy.com/course/best-react/learn/lecture/28517067#overview)<br>
