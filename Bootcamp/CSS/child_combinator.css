@@ -1,0 +1,11 @@
+a { 
+    color : black;
+}
+
+body > a {
+    color : red;
+}
+
+body > ul > li > a {
+    color : green;
+}
