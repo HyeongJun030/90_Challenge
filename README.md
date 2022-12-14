@@ -122,5 +122,7 @@
 - 12.08 : [홈페이지 스타일링](https://www.udemy.com/course/the-web-developer-bootcamp-2021-korea/learn/lecture/28497326#overview)<br>
 - 12.09 : [보안 문제, Mongo Injection, XSS, 유효화, 오류 숨기기, Helmet](https://www.udemy.com/course/the-web-developer-bootcamp-2021-korea/learn/lecture/28497364#overview)<br>
 - 12.10 : [Mongo Atlas 설정, Heroku 설정](https://www.udemy.com/course/the-web-developer-bootcamp-2021-korea/learn/lecture/28497408#overview)<br>
-- 12.11 : [React 공부 시작](https://www.udemy.com/course/best-react/learn/lecture/28516611#overview)<br>
-- 12.12 : [자바스크립트 새로고침](https://www.udemy.com/course/best-react/learn/lecture/28517067#overview)<br>
+- 12.11 : ...
+- 12.12 : [React 공부 시작](https://www.udemy.com/course/best-react/learn/lecture/28516611#overview)<br>
+- 12.13 : [자바스크립트 새로고침](https://www.udemy.com/course/best-react/learn/lecture/28517067#overview)<br>
+- 12.14 : [React 기초](https://www.udemy.com/course/best-react/learn/lecture/28517121#overview)<br>
