@@ -126,3 +126,4 @@
 - 12.12 : [React 공부 시작](https://www.udemy.com/course/best-react/learn/lecture/28516611#overview)<br>
 - 12.13 : [자바스크립트 새로고침](https://www.udemy.com/course/best-react/learn/lecture/28517067#overview)<br>
 - 12.14 : [React 기초](https://www.udemy.com/course/best-react/learn/lecture/28517121#overview)<br>
+- 12.15 : [React State, 이벤트 다루는 방법](https://www.udemy.com/course/best-react/learn/lecture/28517289#overview)<br>
