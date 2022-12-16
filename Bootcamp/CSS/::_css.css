@@ -1,0 +1,11 @@
+p::first-letter {
+    color : #f72585;
+}
+
+p::first-line {
+    color : #7209b7;
+}
+
+p::selection {
+    background-color: #a8dadc;
+}
