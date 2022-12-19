@@ -128,3 +128,7 @@
 - 12.14 : [React 기초](https://www.udemy.com/course/best-react/learn/lecture/28517121#overview)<br>
 - 12.15 : [React State, 이벤트 다루는 방법](https://www.udemy.com/course/best-react/learn/lecture/28517289#overview)<br>
 - 12.16 : [렌더링 리스트, 조건부 content](https://www.udemy.com/course/best-react/learn/lecture/28517421#overview)<br>
+- 12.17 : [리액트 컴포넌트 스타일링](https://www.udemy.com/course/best-react/learn/lecture/28517493#overview)<br>
+- 12.18 : ...
+- 12.19 : [연습 프로젝트](https://www.udemy.com/course/best-react/learn/lecture/28517569#overview)<br>
+- 12.20 : [프래그먼트 작업, portals, refs](https://www.udemy.com/course/best-react/learn/lecture/28517611#overview)<br>

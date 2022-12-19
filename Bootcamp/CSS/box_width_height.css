@@ -1,0 +1,31 @@
+div {
+    width : 200px; /* width 는 가로 크기 */
+    height : 200px; /* height 는 세로 크기 */
+}
+
+#one {
+    background-color: #a2d2ff;
+    /* border-width: 10px;
+    border-color : #f5ebe0;
+    border-style : solid; */
+    border : 10px solid  #f5ebe0;
+    border-radius: 10%;
+}
+
+#two {
+    background-color: #ffc8dd;
+    /* border-width: 10px;
+    border-color : #d5bdaf;
+    border-style : solid; */
+    border : 10px solid #d5bdaf;
+    border-radius: 30%;
+}
+
+#three {
+    background-color: #cdb4db;
+    /* border-width: 10px;
+    border-color : #f5ebe0;
+    border-style : solid; */
+    border : 10px solid #f5ebe0;
+    border-radius: 50%;
+}                       
