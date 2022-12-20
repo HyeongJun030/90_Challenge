@@ -1,0 +1,25 @@
+h1 {
+    background-color: #e7c6ff;
+    border : 1px solid black;
+    display : inline;             /* display : inline; 를 통해 블록을 인라인으로 바꿀 수 있습니다.*/
+}
+
+span { 
+    background-color: #bbd0ff;
+    border : 1px solid black;   
+    display : block;              /* display : block; 를 통해 인라인을 블록으로 바꿀 수 있습니다. */
+}
+
+div {
+    height : 200px;
+    width : 200px;
+    background-color : #f2cc8f; 
+    border : 1px solid #81b29a;
+    display : inline-block;
+    margin : 50px;
+}
+
+h2 {
+    display : none;
+    
+}

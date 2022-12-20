@@ -1,0 +1,40 @@
+html {
+	font-size : 10px;
+}
+
+section {
+    background-color: #8a817c;
+    width : 500px;
+    height: 500px;
+}
+
+div { 
+    background-color: #bcb8b1;
+    width : 50%;
+    height : 50%;
+
+}
+
+#em {
+    font-size: 15px;
+}
+
+#em h2 { 
+    font-size: 2em;
+}
+
+#em p {
+    font-size: 0.5em;
+}
+
+#rem {
+    font-size : 1rem;
+}
+
+#rem h2 {
+    font-size: 2rem;
+}
+
+#rem p {
+    font-size: 3rem;
+}
