@@ -1,0 +1,13 @@
+section {
+    width : 500px;
+    height : 500px;
+    background-color: #ef476f;
+}
+
+#rgba {
+    width : 50%;
+    height : 50%;
+    /* background-color: rgba(214, 204, 194, 0); alpha가 0인 경우 완전 투명하게 됩니다. */
+    /* background-color: rgba(214, 204, 194, 0.5); /* alpha가 0.5인 경우 반투명하게 됩니다. */
+    background-color: rgba(214, 204, 194, 1); /* alpha가 1인 경우 완전 불투명하게 됩니다. */
+}
