@@ -1,0 +1,55 @@
+div {
+    width : 100px;
+    height : 100px;
+    background-color: #a2d2ff;
+    border : 3px solid black;
+    margin : 10px;
+    display : inline-block;
+}
+
+#middle {
+    background-color: #ffc8dd;
+}
+
+#static #middle {
+    position : static;   /* 요소의 위치(position)가 static이면 변화에 영향을 받지 않습니다. */
+    top : 100px;
+}
+
+#relative #middle {
+    position : relative;   /* 오프셋을 주지 않는 원래 위치에서 상대적인 위치로 이동합니다. */
+    top : 100px; 
+    left : 100px;
+}
+
+#absolute {
+    /* 어떤 요소의 위치기 지정되면 static이 아닌 위치 세트가 있는건데 
+    id가 absolute인 부모 요소의 위치를 지정하기 위해 relative라고 입력하면 absolute 위치를 지정하고 
+    top과 left로 50px씩 오프셋을 준 <div>에 위치가 지정된 조상이 생깁니다. 
+    이렇게 하면 더 이상 <div>가 <body>를 기준으로 생기지 않고 <section>을 기준으로 생기게 됩니다. */
+    position : relative;
+} 
+
+#absolute #middle {
+    /* absolute는 문서의 일반적인 흐름에서 요소가 제거되고 공간도 배정되지 않습니다. 
+    가장 가까운 위치에 있는 조상을 기준으로 위치가 조정됩니다. 
+    가까운 위치에 조상이 없다면 초기 컨테이너 블록 즉, <body>를 기준으로 상대적인 위치에 배치됩니다. */
+    position : absolute;   
+    top : 0px;
+    left : 0px;
+}
+
+#fixed #middle {
+    position : fixed; /* fixed로 지정되면 화면을 이동하더라도 그 자리에 계속 유지됩니다. */
+    top : 100px;
+    left : 100px;
+}
+
+#sticky {
+    height : 500px;   /* position : sticky를 사용하기 위해서는 부모 요소에 height 값을 지정해줘야 합니다. */
+}
+
+#sticky #middle {
+    position : sticky;
+    top : 100px;
+}

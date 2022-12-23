@@ -134,3 +134,4 @@
 - 12.20 : [프래그먼트 작업, portals, refs](https://www.udemy.com/course/best-react/learn/lecture/28517611#overview)<br>
 - 12.21 : [reducer를 사용한 부작용 처리, 컨텍스트 api 사용](https://www.udemy.com/course/best-react/learn/lecture/28517643#overview)<br>
 - 12.22 : [음식 주문 앱 만들기](https://www.udemy.com/course/best-react/learn/lecture/28517643#overview)<br>
+- 12.23 : [리액트 최적화](https://www.udemy.com/course/best-react/learn/lecture/28517767#overview)<br>

@@ -11,3 +11,10 @@ section {
     /* background-color: rgba(214, 204, 194, 0.5); /* alpha가 0.5인 경우 반투명하게 됩니다. */
     background-color: rgba(214, 204, 194, 1); /* alpha가 1인 경우 완전 불투명하게 됩니다. */
 }
+
+#opacity {
+    width : 50%;
+    height : 50%;
+    background-color: blanchedalmond;
+    opacity: 1;
+}
