@@ -1,0 +1,26 @@
+body {
+    font-family: 'roboto', sans-serif;
+    display : flex;
+    align-items : center;
+    justify-content: center;
+    height : 100vh;
+    background-color: #023047;
+}
+
+button {
+    background : none;
+    color : #390099;
+    border : 2px solid ;
+    padding : 1em 2em;   /* padding은 content와 border 사이의 여백을 의미하며, 상하 1em, 좌우 2em의 여백을 주었습니다. */
+    font-size: 1em;
+    transition: all 1s;   /* hover가 적용될 때까지의 딜레이를 걸기 위해 transition을 적용합니다. */
+}
+
+button:hover {
+    background-color: #06d6a0;
+    border : 3px solid #216869;   /* hover가 되었을 때 테두리의 색상이 바뀌도록 border 적용하기 */
+    color : #1f2421; 
+    box-shadow : 0 0.5em 0.5em -0.4em #70d6ff;  /* 박스 뒤의 그림자를 생성하기 위해 box-shadow를 적용합니다. */
+    transform : translateY(-0.5em);   /* 마우스를 올려놨을 때 위로 0.5em만큼 움직이기 위해 translate를 적용합니다. */
+    cursor: pointer;
+}
