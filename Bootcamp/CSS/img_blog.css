@@ -1,0 +1,14 @@
+img { 
+    width : 30%;
+    margin : calc(10%/6);
+}
+
+nav {
+    text-transform: uppercase;   /* uppercase는 글자를 대문자로 바꾸기 위해 사용됩니다. */
+    border-bottom : 2px solid black;
+    margin-left : calc(10%/6);
+    margin-right : calc(10%/6);
+    padding : 1.5em 0;   /* 상하 20px, 좌우 0px */ 
+    font-family: 'Raleway', sans-serif;   /* 구글 폰트 설정 */
+    font-size : 1.5em;
+}
