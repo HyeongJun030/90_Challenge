@@ -141,3 +141,4 @@
 - 12.27 : [커스텀 리액트 Hook 빌드](https://www.udemy.com/course/best-react/learn/lecture/28517871#overview)<br>
 - 12.28 : [양식 및 사용자 입력 작업](https://www.udemy.com/course/best-react/learn/lecture/28517905#overview)<br>
 - 12.29 : [음식 주문 앱에 결제 양식 추가하기](https://www.udemy.com/course/best-react/learn/lecture/28517959#overview)<br>
+- 12.30 : [Redux 사용하기](https://www.udemy.com/course/best-react/learn/lecture/28518019#overview)<br>
