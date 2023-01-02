@@ -143,4 +143,10 @@
 - 12.29 : [음식 주문 앱에 결제 양식 추가하기](https://www.udemy.com/course/best-react/learn/lecture/28517959#overview)<br>
 - 12.30 : [Redux 사용하기](https://www.udemy.com/course/best-react/learn/lecture/28518019#overview)<br>
 - 12.31 : [Redux 심화](https://www.udemy.com/course/best-react/learn/lecture/28518111#overview)<br>
+
+---
+
+(Welcome 2023 !)
+
 - 01.01 : [SPA 다중 페이지 구현하기](https://www.udemy.com/course/best-react/learn/lecture/28518173#overview)<br>
+- 01.02 : [React 앱 배포하기](https://www.udemy.com/course/best-react/learn/lecture/28518283#overview)<br>
