@@ -1,0 +1,59 @@
+body { 
+    font-family : 'Open Sans', sans-serif;
+}
+
+h1 {
+    font-size : 6em;
+    text-align : center;
+}
+
+nav { 
+    font-size : 1.5em;
+    display : flex;   /* 반응형 네비게이션 바를 만들기 위해 display : flex ! */
+    justify-content: space-between;   /* nav 태그 안에 있는 요소들 중 첫번째와 마지막 요소를 처음과 끝에 배치하고 
+                                        사이 요소들과의 간격을 주기 위해 space-between으로 지정합니다. */
+}
+
+ul, li {
+    display : inline;   /* ul의 li는 기본적으로 block 형태인데 네비게이션 바는 한 줄로 표시할 것이므로 display : inline로 지정합니다. */
+    margin : 0;
+    padding : 0;
+}
+
+ul {
+    /* border : 1px solid red;   구분을 위해 테두리를 지정합니다. */
+    flex : 1;   /* 남은 공간 중 해당 요소가 할당 가능한 공간의 비율을 지정합니다. */
+    max-width : 50%;   /* ul 태그가 가지는 컨테이너의 최대 너비를 50%로 합니다.*/
+    display : flex;   /* 목록 요소도 반응형으로 만들기 위해 display : flex를 적용합니다.*/
+    justify-content: space-evenly;   /* 컨테이너와 목록 요소들 서로의 사이에 동일한 공간을 주기 위해 space-evenly를 적용합니다.  */
+}
+
+
+@media (max-width : 768px) {   /* 최대 너비가 768px 이하일 때 */
+    h1{
+        font-size : 4em;
+    }
+    nav {
+        flex-direction: column;
+        align-items: center;
+    }
+    nav ul {
+        flex-direction: column;
+        align-items: center;
+    }
+}
+
+@media (max-width : 576px) {   /* 최대 너비가 768px 이하일 때 */
+    h1{
+        font-size : 2em;
+        color : green;
+    }
+    nav {
+        flex-direction: column;
+        align-items: center;
+    }
+    nav ul {
+        flex-direction: column;
+        align-items: center;
+    }
+}

@@ -1,0 +1,22 @@
+h2 {
+    text-align: center;;
+}
+
+main { 
+    width : 80%;
+    margin : 0 auto;
+    border : 5px solid black;
+    height : 500px;
+    display : flex;
+}
+
+main .sidebar {
+    background-color: #8ecae6;
+    border : 2px solid #e63946;
+    flex : 1 2 300px;
+}
+
+main .maincontent {
+    background-color: #023047;
+    flex : 2 1 800px;
+}
