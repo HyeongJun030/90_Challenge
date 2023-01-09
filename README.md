@@ -153,3 +153,7 @@
 - 01.03 : [React 앱 인증(로그인 등) 추가하기](https://www.udemy.com/course/best-react/learn/lecture/28518305#overview)<br>
 - 01.04 : [NextJs 사용하기[1]](https://www.udemy.com/course/best-react/learn/lecture/28518345#overview)<br>
 - 01.05 : [NextJs 사용하기[2]](https://www.udemy.com/course/best-react/learn/lecture/28518345#overview)<br>
+- 01.06 : ...
+- 01.07 : ...
+- 01.08 :[리액트 앱 애니메이션 사용하기](https://www.udemy.com/course/best-react/learn/lecture/28518483#overview)<br>
+- 01.09 : [리덕스를 리액트 훅으로 바꾸는 방법](https://www.udemy.com/course/best-react/learn/lecture/28518549#overview)<br>
