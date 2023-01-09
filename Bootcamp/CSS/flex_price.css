@@ -1,0 +1,157 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;   /* 위의 선택자들을 사용할 때 margin, padding, border 등을 0으로 설정합니다. */
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;   /* 본문의 줄 높이는 1로 설정합니다. */
+}
+ol, ul {
+	list-style: none;   /* ol과 ul의 목록 스타일을 제거합니다. */
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+html {
+  box-sizing : border-box;   /* 들어갈 내용 뿐만 아니라 테두리 너비를 포함하여 크기를 재기 위해 border-box 를 적용합니다. */
+  font-family : 'Open Sans', sans-serif;   /* HTML 전체의 글꼴은 Open Sans로 적용하고, 백업용으로 sans-serif를 적용합니다. */
+}
+
+body {
+  background-color: #bde0fe;   /* body 전체에 배경색을 #bde0fe 색을 적용합니다. */
+  display: flex;   /* 반응형 디자인을 위해 flex 합니다. */
+  justify-content: center;   /* 주축을 기준으로 요소를 body의 가운데에 놓기 위해 center를 적용합니다. */
+  align-items: center;   /* 교차축을 기준으로 요소를 body의 가운데에 놓기 위해 center를 적용합니다. */
+  min-height : 100vh;   /* 최소 높이를 100vh로 지정합니다. */
+}
+
+.panel {
+  background-color: white;   /* 배경색을 흰색으로 지정합니다. */
+  border-radius: 10px;   /* 테두리를 둥글게 하기 위해 border-radius를 지정합니다. */
+  padding: 15px 25px;   /* padding을 상하 15px, 좌우 25px 만큼 주어 content와의 여백을 줍니다. */
+  width: 100%;   /* 너비는 부모 요소의 100% 만큼으로 설정합니다. */
+  max-width: 960px;   /* 너무 커지지 않게 최대 너비를 960px로 지정합니다. */
+  display: flex;   /* 반응형 디자인을 위해 flex 합니다. */
+  flex-direction: column;   /* 기본 방향을 column으로 합니다. */
+  text-align: center;   /* panel 안에 있는 모든 텍스트를 가운데 정렬합니다. */
+  text-transform: uppercase;   /* 모든 문자를 대문자로 변경합니다.  */
+}
+
+.pricing-plan {
+  border-bottom: 1px solid #e1f1ff;   /* 구분을 위해 요소의 bottom에 경계선을 만들어줍니다. */
+}
+
+.pricing-plan:last-child {   /* 맨 마지막 요소에는 bottom 경계선을 만들 필요가 없으니 :last-child를 통해 마지막 요소를 선택하여 */
+  border-bottom : none;   /* bottom 테두리를 없애줍니다. (none) */
+}
+
+.pricing-img {
+  margin-bottom: 25px;   /* 이미지와 텍스트의 간격을 주기 위해 margin을 줍니다. */
+  max-width: 100%;
+}
+
+.pricing-header {
+  color: #888;
+  font-weight : 600px;   /* 폰트 굵기를 조절합니다. */
+  letter-spacing : 1px;   /* 글자 사이의 간격을 조절합니다. */
+}
+
+.pricing-features {
+  margin: 50px 0 25px;   /* 위 50px, 좌우 0px, 아래 25px 만큼의 여백을 줍니다. */
+  color: #016ff9;
+}
+
+.pricing-features-item {
+  font-weight: 600;   /* 폰트 굵기를 조절합니다. */
+  letter-spacing: 1px;   /* 글자 사이의 간격을 조절합니다. */
+  font-size: 12px;
+  line-height: 1.5;   /* 줄 높이를 지정합니다. */
+  padding: 15px 0;   /* 상하 15px, 좌우 0px 만큼의 여백을 지정합니다. */
+  border-top: 1px solid #e1f1ff;   /* 상단 테두리를 구분하기 위해 경계선을 만듭니다. */
+}
+
+.pricing-features-item:last-child{   /* 마지막 요소의 하단 테두리를 만들기 위해 :last-child를 사용합니다. */
+  border-bottom: 1px solid #e1f1ff;   /* 하단 테두리를 구분하기 위해 경계선을 만듭니다. */
+}
+
+.pricing-price {
+  color: #016ff9; 
+  display: block;   /* span 태그를 blcok 형태로 바꾸기 위해 display : block를 적용합니다. */
+  font-size: 32px;
+  font-weight: 700;
+}
+
+.pricing-button {
+  border: 1px solid #9dd1ff;
+  border-radius: 10px;
+  color: #348efe;
+  display: inline-block;   /* a 태그로 만든 버튼을 inline-block 형태로 만듭니다. */
+  padding: 15px 35px;   /* 상하 15px, 좌우 35px 만큼의 여백을 줍니다. */
+  text-decoration: none;
+  margin: 25px 0;   /* 상하 25px, 좌우 0px 만큼의 여백을 줍니다. */
+  transition: background-color 200ms ease-in-out;   /* 버튼의 background-color 효과를 0.5초 딜레이로 전환합니다. */
+}
+
+.pricing-button:hover, .pricing-button:focus {   /* 버튼에 마우스를 가져다놨을 때 효과를 주기 위해 hover를 적용합니다. */
+  background-color: #e1f1ff;
+}
+
+.pricing-button.is-featured {
+  background-color: #48aaff;
+  color: white;
+}
+
+.pricing-button.is-featured:hover, .pricing-button.is-featured:focus{
+  background-color: #269aff;
+  color: white;
+}
+
+
+@media (min-width: 900px){   /* 최소 너비가 900px이면 아래 스타일을 적용합니다. */
+  .panel {
+    flex-direction: row;   /* 최소 너비가 900px일 때, 즉 너비가 900px 이상일 때 주 축을 row로 변경합니다. */
+  }
+  .pricing-plan {
+    border-bottom: none;   /* 모바일 화면(세로)에서는 구분을 위한 경계선을 아래에 지정하였지만 가로 화면에서는 좌우 요소의 사이에 만들어야하기 때문에 기존의 아래 경계선은 none으로 변경합니다. */
+    border-right: 1px solid #e1f1ff;   /* 좌우 요소 사이에 경계선을 만들기 위해 작성합니다. */
+    padding: 25px 50px;   /* 상하 25px, 좌우 50px 만큼의 여백을 줍니다. */
+  }
+  .pricing-plan:last-child {
+    border-right: none;   /* 마지막 요소의 오른쪽 경계선을 만들 필요가 없으므로 none로 합니다. */
+  }
+}
