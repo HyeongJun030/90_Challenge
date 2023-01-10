@@ -157,3 +157,4 @@
 - 01.07 : ...
 - 01.08 :[리액트 앱 애니메이션 사용하기](https://www.udemy.com/course/best-react/learn/lecture/28518483#overview)<br>
 - 01.09 : [리덕스를 리액트 훅으로 바꾸기](https://www.udemy.com/course/best-react/learn/lecture/28518549#overview)<br>
+- 01.10 : [리액트 앱 테스트(단위 테스트)](https://www.udemy.com/course/best-react/learn/lecture/28518609#overview)<br>
