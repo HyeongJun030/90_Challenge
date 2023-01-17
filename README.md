@@ -164,3 +164,4 @@
 - 01.14 : [리액트 훅이란?[2]](https://www.udemy.com/course/best-react/learn/lecture/28518741#overview)<br>
 - 01.15 : ...
 - 01.16 : [SPA 구축하기](https://www.udemy.com/course/best-react/learn/lecture/28518859#overview)<br>
+- 01.18 : [리액트 복습](https://www.udemy.com/course/best-react/learn/lecture/28518859#overview)<br>
