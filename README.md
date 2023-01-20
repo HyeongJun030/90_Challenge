@@ -166,3 +166,4 @@
 - 01.16 : [SPA 구축하기](https://www.udemy.com/course/best-react/learn/lecture/28518859#overview)<br>
 - 01.18 : [리액트 복습](https://www.udemy.com/course/best-react/learn/lecture/28518859#overview)<br>
 - 01.19 : [리액트 복습](https://www.udemy.com/course/best-react/learn/lecture/28518859#overview)<br>
+- 01.20 : [리액트 복습](https://www.udemy.com/course/best-react/learn/lecture/28518859#overview)<br>
