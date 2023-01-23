@@ -167,3 +167,5 @@
 - 01.18 : [리액트 복습](https://www.udemy.com/course/best-react/learn/lecture/28518859#overview)<br>
 - 01.19 : [리액트 복습](https://www.udemy.com/course/best-react/learn/lecture/28518859#overview)<br>
 - 01.20 : [리액트 복습](https://www.udemy.com/course/best-react/learn/lecture/28518859#overview)<br>
+- 01.21 ~ 01.22 : 설 연휴
+- 01.23 : 기술 블로그 정리
