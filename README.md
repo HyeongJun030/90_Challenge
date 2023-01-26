@@ -171,3 +171,4 @@
 - 01.23 : 기술 블로그 정리
 - 01.24 : ...
 - 01.25 : [타입스크립트 시작](https://www.udemy.com/course/best-typescript-21/learn/lecture/27937464?start=0#overview)<br>
+- 01.26 : [타입스크립트 기초](https://www.udemy.com/course/best-typescript-21/learn/lecture/27937464?start=0#overview)<br>
