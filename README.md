@@ -172,4 +172,5 @@
 - 01.24 : ...
 - 01.25 : [타입스크립트 시작](https://www.udemy.com/course/best-typescript-21/learn/lecture/27937464?start=0#overview)<br>
 - 01.26 : [타입스크립트 기초](https://www.udemy.com/course/best-typescript-21/learn/lecture/27937464?start=0#overview)<br>
-- 01.26 : [타입스크립트 타입](https://www.udemy.com/course/best-typescript-21/learn/lecture/27937528#overview)<br>
+- 01.27 : [타입스크립트 타입](https://www.udemy.com/course/best-typescript-21/learn/lecture/27937528#overview)<br>
+- 01.28 : [타입스크립트 컴파일러, 구성](https://www.udemy.com/course/best-typescript-21/learn/lecture/27937676#overview)<br>
