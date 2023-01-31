@@ -176,3 +176,4 @@
 - 01.28 : [타입스크립트 컴파일러, 구성](https://www.udemy.com/course/best-typescript-21/learn/lecture/27937676#overview)<br>
 - 01.29 : [타입스크립트에서의 let, const, 배열 등](https://www.udemy.com/course/best-typescript-21/learn/lecture/27937776#overview)<br>
 - 01.30 : [클래스, 인터페이스](https://www.udemy.com/course/best-typescript-21/learn/lecture/27937826#overview)<br>
+- 01.31 : [고급 타입](https://www.udemy.com/course/best-typescript-21/learn/lecture/27938002#overview)<br>
