@@ -178,3 +178,5 @@
 - 01.30 : [클래스, 인터페이스](https://www.udemy.com/course/best-typescript-21/learn/lecture/27937826#overview)<br>
 - 01.31 : [고급 타입](https://www.udemy.com/course/best-typescript-21/learn/lecture/27938002#overview)<br>
 - 02.01 : [제네릭](https://www.udemy.com/course/best-typescript-21/learn/lecture/27938084#overview)<br>
+- 02.02 : ...
+- 02.03 : [데코레이터](https://www.udemy.com/course/best-typescript-21/learn/lecture/27938176#overview)<br>
