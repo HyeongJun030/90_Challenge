@@ -184,3 +184,4 @@
 - 02.05 : [간단한 프로젝트 만들기(1)](https://www.udemy.com/course/best-typescript-21/learn/lecture/27938298#overview)<br>
 - 02.06 : ...
 - 02.07 : [간단한 프로젝트 만들기(2)](https://www.udemy.com/course/best-typescript-21/learn/lecture/27938298#overview)<br>
+- 02.08 : [모듈, 네임스페이스](https://www.udemy.com/course/best-typescript-21/learn/lecture/27938438#overview)<br>
