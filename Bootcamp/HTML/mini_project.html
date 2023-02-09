@@ -1,0 +1,176 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <!-- Required meta tags -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  <!-- Google Font -->
+  <link href="https://fonts.googleapis.com/css?family=Nunito:200,300,400,700" rel="stylesheet">
+
+  <!-- Bootstrap CSS -->
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"
+    integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+
+  <!-- Custom CSS -->
+  <link rel="stylesheet" href="/Bootcamp/CSS/mini_project.css">
+
+  <title>Museum of Candy</title>
+</head>
+
+<body>
+  <!-- 네비게이션 바가 어느 지점부터 줄어들 것인지 결정하기 위해 navbar-expand-md를 사용합니다. 그리고 y축 패딩을 없애기 위해 py-0을 적용합니다. 네비게이션 바를 상단에 고정하기 위해 fixed-top도 적용합니다. -->
+  <nav id="mainNavbar" class="navbar navbar-dark navbar-expand-md py-0 fixed-top">
+    <!-- 네비게이션 바의 이름을 정하기 위해 navbar-brand를 사용합니다. -->
+    <a href="#" class="navbar-brand">Candy</a>
+    <!-- data-toggle="collapse"는 무언가를 접어서 본다는 구문이고, 그 무언가는 data-target을 통해 결정합니다. 또한 설명을 위해 aria-label을 사용합니다. -->
+    <button class="navbar-toggler" data-toggle="collapse" data-target="#navLinks" aria-label="Toggle navigation">
+      <!-- 접었을 때 나오는 햄버거 아이콘을 만듭니다. -->
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <!-- 접었을 때 안에 들어가는 내용을 만듭니다. -->
+    <div class="collapse navbar-collapse" id="navLinks">
+      <!-- 네비게이션 바에는 HOEM, ABOUT, TICKETS 3개의 항목이 들어가기 때문에 li를 통해 만들어줍니다. -->
+      <ul class="navbar-nav">
+        <li class="nav-item">
+          <a href="" class="nav-link">HOME</a>
+        </li>
+        <li class="nav-item">
+          <a href="" class="nav-link">ABOUT</a>
+        </li>
+        <li class="nav-item">
+          <a href="" class="nav-link">TICKETS</a>
+        </li>
+      </ul>
+    </div>
+  </nav>
+
+  <!-- 상단 컨텐츠 작업하기 , 유동 반응형 컨테이너를 만들기 위해 container-fluid를 적용합니다. 좌우 패딩을 지우기 위해 px-0을 적용합니다. -->
+  <section class="container-fluid px-0">
+    <!-- 주축을 row로 하고 align-items-center을 통해 콘텐츠를 가운데 정렬합니다. -->
+    <div class="row align-items-center">
+      <div class="col-lg-6">
+        <!-- 텍스트를 큰 화면일 때만 보이도록 하고 작은 화면일 때는 이미지만 보이고 텍스트는 감추기 위해  d-none과 d-lg-block를 적용합니다. -->
+        <div id="headingGroup" class="text-white text-center d-none d-lg-block mt-5">
+          <h1 class="">MUSEUM<span>/</span>OF<span>/</span>CANDY</h1>
+          <h1 class="">MUSEUM<span>/</span>OF<span>/</span>CANDY</h1>
+          <h1 class="">MUSEUM<span>/</span>OF<span>/</span>CANDY</h1>
+          <h1 class="">MUSEUM<span>/</span>OF<span>/</span>CANDY</h1>
+          <h1 class="">MUSEUM<span>/</span>OF<span>/</span>CANDY</h1>
+          <h1 class="">MUSEUM<span>/</span>OF<span>/</span>CANDY</h1>
+          <h1 class="">MUSEUM<span>/</span>OF<span>/</span>CANDY</h1>
+        </div>
+      </div>
+      <div class="col-lg-6">
+        <!-- 이미지를 반응형으로 만들기 위해 img-fluid를 적용합니다. -->
+        <img class="img-fluid" src="/Bootcamp/img/hand2.png" alt="hand2">
+      </div>
+    </div>
+  </section>
+
+  <!-- 하단 컨텐츠 작업하기 -->
+  <section class="container-fluid px-0">
+    <!-- 주축을 row로 합니다. -->
+    <div class="row align-items-center content">
+      <!-- col-6을 적용하여 6유닛짜리 요소 2개를 만듭니다. order-* 를 적용하여 크기에 따라 배치될 순서를 결정합니다.  -->
+      <div class="col-md-6 order-2 order-md-1">
+        <!-- 이미지를 반응형으로 만들기 위해 img-fluid를 적용합니다. -->
+        <img src="/Bootcamp/img/milk.png" alt="" class="img-fluid">
+      </div>
+      <!-- 텍스트를 가운데 정렬합니다. -->
+      <div class="col-md-6 text-center order-1 order-md-2">
+        <div class="row justify-content-center">
+          <div class="col-10 col-lg-8 blurb mb-5 mb-md-0">
+            <h2>MUSEUM OF CANDY</h2>
+            <img src="/Bootcamp/img/lolli_icon.png" alt="" class="d-none d-lg-inline">
+            <p class="lead">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi quasi consequatur quaerat.
+              Minus,
+              totam laudantium dolore voluptates corporis commodi vero quas, asperiores pariatur quidem architecto
+              reiciendis a laborum error fugiat.
+              Corporis pariatur dolorem aliquid ipsum excepturi necessitatibus sequi quaerat veritatis similique
+              consequatur
+              perspiciatis sed totam maiores, voluptates corrupti rerum culpa! Ea accusantium voluptatum eum
+              perspiciatis.
+              Repudiandae dignissimos eius facere consequatur?</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- 주축을 row로 합니다. -->
+    <div class="row align-items-center">
+      <!-- col-6을 적용하여 6유닛짜리 요소 2개를 만듭니다. -->
+      <!-- 텍스트를 가운데 정렬합니다. -->
+      <div class="col-md-6 text-center">
+        <div class="row justify-content-center content">
+          <div class="col-10 col-lg-8 blurb mb-5 mb-md-0">
+            <h2>MUSEUM OF CANDY</h2>
+            <img src="/Bootcamp/img/lolli_icon.png" alt="" class="d-none d-lg-inline">
+            <p class="lead">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi quasi consequatur quaerat.
+              Minus,
+              totam laudantium dolore voluptates corporis commodi vero quas, asperiores pariatur quidem architecto
+              reiciendis a laborum error fugiat.
+              Corporis pariatur dolorem aliquid ipsum excepturi necessitatibus sequi quaerat veritatis similique
+              consequatur
+              perspiciatis sed totam maiores, voluptates corrupti rerum culpa! Ea accusantium voluptatum eum
+              perspiciatis.
+              Repudiandae dignissimos eius facere consequatur?</p>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-6">
+        <!-- 이미지를 반응형으로 만들기 위해 img-fluid를 적용합니다. -->
+        <img src="/Bootcamp/img/gumball.png" alt="" class="img-fluid">
+      </div>
+    </div>
+    <!-- 주축을 row로 합니다. -->
+    <div class="row align-items-center content">
+      <!-- col-6을 적용하여 6유닛짜리 요소 2개를 만듭니다. order-* 를 적용하여 크기에 따라 배치될 순서를 결정합니다.  -->
+      <div class="col-md-6 order-2 order-md-1">
+        <!-- 이미지를 반응형으로 만들기 위해 img-fluid를 적용합니다. -->
+        <img src="/Bootcamp/img/sprinkles.png" alt="" class="img-fluid">
+      </div>
+      <!-- 텍스트를 가운데 정렬합니다. -->
+      <div class="col-md-6 text-center order-1 order-md-2">
+        <div class="row justify-content-center">
+          <div class="col-10 col-lg-8 blurb mb-5 mb-md-0">
+            <h2>MUSEUM OF CANDY</h2>
+            <img src="/Bootcamp/img/lolli_icon.png" alt="" class="d-none d-lg-inline">
+            <p class="lead">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi quasi consequatur quaerat.
+              Minus,
+              totam laudantium dolore voluptates corporis commodi vero quas, asperiores pariatur quidem architecto
+              reiciendis a laborum error fugiat.
+              Corporis pariatur dolorem aliquid ipsum excepturi necessitatibus sequi quaerat veritatis similique
+              consequatur
+              perspiciatis sed totam maiores, voluptates corrupti rerum culpa! Ea accusantium voluptatum eum
+              perspiciatis.
+              Repudiandae dignissimos eius facere consequatur?</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- Optional JavaScript -->
+  <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+  <script src=" https://code.jquery.com/jquery-3.3.1.slim.min.js"
+    integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous">
+    </script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"
+    integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49"
+    crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"
+    integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy"
+    crossorigin="anonymous"></script>
+  <!-- 스크롤을 내렸을 때 네비게이션 바의 배경색이 바뀌도록 javascript를 적용합니다. -->
+  <script>
+    $(function () {
+      $(document).scroll(function () {
+        var $nav = $("#mainNavbar");
+        /* 스크롤을 하다가 nav 높이를 지나치면  scrolled 라는 클래스가 켜지게 되어 배경색이 바뀌게 됩니다. */
+        $nav.toggleClass("scrolled", $(this).scrollTop() > $nav.height());
+      });
+    });
+  </script>
+</body>
+
+</html>

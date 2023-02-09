@@ -1,0 +1,69 @@
+/* 페이지의 기본 배경색을 지정합니다. */
+body {   
+    background-color: #f5d9df;
+    font-family: "Nunito", sans-serif;
+}
+
+/* h2에 스타일을 줍니다. */
+.blurb h2 {
+    color : #EA1c2c;
+    font-weight : 100;
+    font-size : 2.25rem;
+}
+
+.blurb p {
+    color : #f498b8;
+    font-weight : 100;
+    font-size : 1.125rem;
+    line-height : 2.5;
+}
+
+.content { 
+    margin-top : 100px;
+    margin-bottom : 100px;
+}
+
+/* 네비게이션 바 안에 있는 요소들에 스타일을 줍니다. */
+#mainNavbar {
+    font-size : 1.5rem;
+    font-weight : 100;
+}
+
+/* 네비게이션 바의 목록 요소에 마우스를 올렸을 때 반응하는 hover 효과를 적용합니다. */
+#mainNavbar .nav-link {
+    color : white;
+}
+
+#mainNavbar .nav-link:hover {
+    color : #EA1C2C;
+}
+
+/* 네비게이션 바의 제목에 스타일을 줍니다. */
+#mainNavbar .navbar-brand {
+    color : #EA1C2C;
+    font-size : 1.5rem;
+}
+
+#headingGroup span {
+    color : #EA1C2C;
+}
+
+#headingGroup h1 {
+    font-weight: 100;
+    font-size : 4rem;
+}
+
+/* 스크롤 했을 때 네비게이션 바의 색상을 바꾸기 위해 스타일을 줍니다. */
+.navbar.scrolled {
+    background-color : plum; 
+    transition : background 500ms;
+}
+
+/* 반응형으로 만들기 위해 미디어쿼리를 적용합니다. */
+@media (max-width : 1200px) {
+    #headingGroup h1 {
+        font-weight: 100;
+        font-size : 3rem;
+    }
+}
+
