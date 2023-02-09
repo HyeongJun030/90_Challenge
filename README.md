@@ -185,3 +185,4 @@
 - 02.06 : ...
 - 02.07 : [간단한 프로젝트 만들기(2)](https://www.udemy.com/course/best-typescript-21/learn/lecture/27938298#overview)<br>
 - 02.08 : [모듈, 네임스페이스](https://www.udemy.com/course/best-typescript-21/learn/lecture/27938438#overview)<br>
+- 02.02 : [타입스크립트랑 Webpack 사용하기](https://www.udemy.com/course/best-typescript-21/learn/lecture/27938538#overview)<br>
