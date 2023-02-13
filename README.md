@@ -188,3 +188,5 @@
 - 02.09 : [타입스크립트랑 Webpack 사용하기](https://www.udemy.com/course/best-typescript-21/learn/lecture/27938538#overview)<br>
 - 02.10 : [다양한 모듈](https://www.udemy.com/course/best-typescript-21/learn/lecture/27938622#overview)<br>
 - 02.11 : [장소 선택, 공유 앱 만들기](https://www.udemy.com/course/best-typescript-21/learn/lecture/27938694#overview)<br>
+- 02.12 : ...
+- 02.13 : [React + TypeScript 프로젝트 설정하기](https://www.udemy.com/course/best-typescript-21/learn/lecture/27938742#overview)<br>
