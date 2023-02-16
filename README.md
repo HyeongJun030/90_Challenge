@@ -64,10 +64,10 @@
 - 10.04 : [CSS 박스 모델](https://www.udemy.com/course/the-web-developer-bootcamp-2021-korea/learn/lecture/28495016#overview) <br>
 - 10.05 : [유용한 CSS 속성들(1)](https://www.udemy.com/course/the-web-developer-bootcamp-2021-korea/learn/lecture/28495068#overview) <br>
 - 10.06 : [유용한 CSS 속성들(2)](https://www.udemy.com/course/the-web-developer-bootcamp-2021-korea/learn/lecture/28495082#overview) <br>
-- 10.07 ~ 10.16 : 정보처리기사 공부 집중하기
+- 10.07 ~ 10.16 : ...
 - 10.10 : [WEB 3.0](https://www.youtube.com/watch?v=RLVl22v3djc&ab_channel=%EB%85%B8%EB%A7%88%EB%93%9C%EC%BD%94%EB%8D%94NomadCoders) / [노션 TIP](https://www.youtube.com/watch?v=XCAwSBdeejU&ab_channel=%EB%85%B8%EB%A7%88%EB%93%9C%EC%BD%94%EB%8D%94NomadCoders)<br>
-- 10.13 : 예비군 훈련[4년차] / [프론트엔드 서버 / 백엔드 서버 구분 이유](https://www.youtube.com/watch?v=9suWgeLZhLg&ab_channel=%EB%9D%BC%EB%A7%A4%EA%B0%9C%EB%B0%9C%EC%9E%90) <br>
-- 10.16 : 정보처리기사 실기 시험
+- 10.13 : [프론트엔드 서버 / 백엔드 서버 구분 이유](https://www.youtube.com/watch?v=9suWgeLZhLg&ab_channel=%EB%9D%BC%EB%A7%A4%EA%B0%9C%EB%B0%9C%EC%9E%90) <br>
+- 10.16 : ...
 - 10.17 : [반응형 CSS](https://www.udemy.com/course/the-web-developer-bootcamp-2021-korea/learn/lecture/28495118#overview) <br>
 - 10.18 : [가격표 만들기 실습](https://www.udemy.com/course/the-web-developer-bootcamp-2021-korea/learn/lecture/28495160#overview) <br>
 - 10.19 : [CSS 프레임워크 : 부트스트랩(1)](https://www.udemy.com/course/the-web-developer-bootcamp-2021-korea/learn/lecture/28495198#overview) <br>
@@ -192,3 +192,4 @@
 - 02.13 : [React + TypeScript 프로젝트 설정하기](https://www.udemy.com/course/best-typescript-21/learn/lecture/27938742#overview)<br>
 - 02.14 : ...
 - 02.15 : [Node.js + Express + TypeScript 같이 사용하기](https://www.udemy.com/course/best-typescript-21/learn/lecture/27938834#overview)<br>
+- 02.16 : [차근차근 '모던 자바스크립트 딥다이브' 공부하기](https://hyeongjun030-fe-developer.tistory.com/122)<br>
