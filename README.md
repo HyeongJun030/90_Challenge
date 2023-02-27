@@ -203,3 +203,4 @@
 - 02.24 : ['모던 자바스크립트 딥다이브' 6일차](https://hyeongjun030-fe-developer.tistory.com/122)<br>
 - 02.25 : ['모던 자바스크립트 딥다이브' 7일차](https://hyeongjun030-fe-developer.tistory.com/122)<br>
 - 02.26 : ['모던 자바스크립트 딥다이브' 8일차](https://hyeongjun030-fe-developer.tistory.com/122)<br>
+- 02.27 : ['모던 자바스크립트 딥다이브' 9일차](https://hyeongjun030-fe-developer.tistory.com/122)<br>
