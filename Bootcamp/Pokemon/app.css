@@ -1,0 +1,8 @@
+.pokemon {
+    display: inline-block;  /* div 를 inline-block 형태로 변경합니다. */
+    text-align: center;   /* 텍스트를 가운데 정렬합니다. */
+}
+
+.pokemon img {
+    display: block;
+}
